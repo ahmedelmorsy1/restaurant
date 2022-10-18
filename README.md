@@ -1,19 +1,11 @@
 # restaurant
 
-A new Flutter project.
+A new Flutter project using php as backend to order food from a restaurant.
 
 ## Getting Started
+this project is a restaurant application for ordering food 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full ![Capture2](https://user-images.githubusercontent.com/38796224/196432112-4dfef5dd-4e17-405b-96a0-782f9293be21.PNG)
+[Capture2](https://user-images.githubusercontent.com/38796224/196432112-4dfef5dd-4e17-405b-96a0-782f9293be21.PNG)
 ![Capture3](https://user-images.githubusercontent.com/38796224/196432115-29f27804-b4ce-4e95-a48a-6d39d27f5722.PNG)
 ![Capture 5PNG](https://user-images.githubusercontent.com/38796224/196432116-08e3d6ec-7aa7-457a-b4f6-fb079561cd52.PNG)
 ![Capture6](https://user-images.githubusercontent.com/38796224/196432119-bc588084-3a42-4144-aa33-408e672ec4f6.PNG)
