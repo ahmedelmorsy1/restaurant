@@ -1,9 +1,7 @@
 # restaurant
 
-A new Flutter project using php as backend to order food from a restaurant.
+A Flutter application using php as backend to order food from a restaurant.
 
-## Getting Started
-this project is a restaurant application for ordering food 
 
 ![Neutral Beige Aesthetic Fashion Mockup Instagram Story](https://github.com/ahmedelmorsy1/restaurant/assets/38796224/d2778e3b-37dc-47f6-b2fb-5d10c4902da2)
 
